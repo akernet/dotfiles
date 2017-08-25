@@ -21,7 +21,8 @@ XTerm*pointerColor: #16A085
 XTerm*faceName: Fixed
 XTerm*faceSize: 11
 
-URxvt.font: xft:monospace:size=12
+! URxvt.font: xft:monospace:size=12
+URxvt*font: xft:Source\ Code\ Pro\ Medium:pixelsize=13:antialias=true:hinting=true,xft:Source\ Code\ Pro\ Medium:pixelsize=13:antialias=true:hinting=true
 
 ! do not scroll with output
 URxvt*scrollTtyOutput: false
